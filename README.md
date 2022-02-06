@@ -1,4 +1,4 @@
-# java-design-patterns
+# Java Design Patterns
 Implemented below design patterns in java:
 1. Behavioral Design Patterns<br>
 --> a. Stratergy<br>
