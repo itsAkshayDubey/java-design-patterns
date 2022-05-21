@@ -1,3 +1,4 @@
+//Structural DP
 package com.akshay.design.patterns.structural.proxy;
 
 public class ProxyDemo {
