@@ -10,3 +10,4 @@ Implemented below design patterns in java:
 3. Structural Design Patterns<br>
 --> a. Adapter<br>
 --> b. Decorator<br>
+--> c. Proxy<br>
