@@ -6,7 +6,8 @@ Implemented below design patterns in java:
 2. Creational Design Patterns<br>
 --> a. Builder<br>
 --> b. Factory<br>
---> c. Singleton<br>
+--> c. Prototype<br>
+--> d. Singleton<br>
 3. Structural Design Patterns<br>
 --> a. Adapter<br>
 --> b. Decorator<br>
