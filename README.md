@@ -11,5 +11,6 @@ Implemented below design patterns in java:
 --> d. Singleton<br>
 3. Structural Design Patterns<br>
 --> a. Adapter<br>
---> b. Decorator<br>
---> c. Proxy<br>
+--> b. Composite<br>
+--> c. Decorator<br>
+--> d. Proxy<br>
