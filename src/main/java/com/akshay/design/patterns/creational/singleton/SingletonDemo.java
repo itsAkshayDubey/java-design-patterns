@@ -5,8 +5,8 @@ public class SingletonDemo {
 
 	public static void main(String[] args) {
 		
-		A a = A.getInstance();
-		A b = A.getInstance();//Both are same instances
+		SingletonClass a = SingletonClass.getInstance();
+		SingletonClass b = SingletonClass.getInstance();//Both are same instances
 
 	}
 
