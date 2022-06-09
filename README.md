@@ -15,4 +15,5 @@ Implemented below design patterns in java:
 --> a. Adapter<br>
 --> b. Composite<br>
 --> c. Decorator<br>
---> d. Proxy<br>
+--> d. Filter<br>
+--> e. Proxy<br>
