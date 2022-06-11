@@ -13,7 +13,8 @@ Implemented below design patterns in java:
 --> d. Singleton<br>
 3. Structural Design Patterns<br>
 --> a. Adapter<br>
---> b. Composite<br>
---> c. Decorator<br>
---> d. Filter<br>
---> e. Proxy<br>
+--> b. Bridge<br>
+--> c. Composite<br>
+--> d. Decorator<br>
+--> e. Filter<br>
+--> f. Proxy<br>
